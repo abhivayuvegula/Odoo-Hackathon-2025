@@ -3,7 +3,7 @@ Team Member 1 : Samuel Abhishikth V [Team Lead]
 email : abhishikthsamuel@gmail.com
 Contact number : 9100741007
 
-Team Member 2 : R C Subramanyan
+Team Member 2 : R C Subramanyam
 email : rasani.shiv@gmail.com
 Contact number : 8074926437
 
